@@ -83,7 +83,7 @@ body{
 
 .home .hero{
   min-height: 60vh;
-  background: #e8dfdft;
+  background-color: red;
   background-size: cover;
   background-position: center;
   display: flex;
